@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-CMD_SYNCD=/usr/bin/syncd
+CMD_SYNCD=/usr/bin/syncd_dash
 
 # dsserve: domain socket server for stdio
 CMD_DSSERVE=/usr/bin/dsserve
